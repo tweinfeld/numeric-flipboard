@@ -1,0 +1,41 @@
+.webwise_numeric_flipboard .digit{width:52px;height:74px;position:relative;display:inline-block;overflow:hidden;margin:0 4px 0 0;float:left;}.webwise_numeric_flipboard .digit .top,.webwise_numeric_flipboard .digit .bottom{background-image:url(../img/counter_sprite.png);position:absolute;left:0px;height:37px;background-repeat:no-repeat;width:inherit;}
+.webwise_numeric_flipboard .digit .top{top:0px;}.webwise_numeric_flipboard .digit .top.i0{background-position:0 0px;}.webwise_numeric_flipboard .digit .top.i0.flip1{background-position:-54px 0px;}
+.webwise_numeric_flipboard .digit .top.i0.flip2{background-position:-110px 0px;}
+.webwise_numeric_flipboard .digit .top.i1{background-position:0 -74px;}.webwise_numeric_flipboard .digit .top.i1.flip1{background-position:-54px -74px;}
+.webwise_numeric_flipboard .digit .top.i1.flip2{background-position:-110px -74px;}
+.webwise_numeric_flipboard .digit .top.i2{background-position:0 -148px;}.webwise_numeric_flipboard .digit .top.i2.flip1{background-position:-54px -148px;}
+.webwise_numeric_flipboard .digit .top.i2.flip2{background-position:-110px -148px;}
+.webwise_numeric_flipboard .digit .top.i3{background-position:0 -222px;}.webwise_numeric_flipboard .digit .top.i3.flip1{background-position:-54px -222px;}
+.webwise_numeric_flipboard .digit .top.i3.flip2{background-position:-110px -222px;}
+.webwise_numeric_flipboard .digit .top.i4{background-position:0 -296px;}.webwise_numeric_flipboard .digit .top.i4.flip1{background-position:-54px -296px;}
+.webwise_numeric_flipboard .digit .top.i4.flip2{background-position:-110px -296px;}
+.webwise_numeric_flipboard .digit .top.i5{background-position:0 -370px;}.webwise_numeric_flipboard .digit .top.i5.flip1{background-position:-54px -370px;}
+.webwise_numeric_flipboard .digit .top.i5.flip2{background-position:-110px -370px;}
+.webwise_numeric_flipboard .digit .top.i6{background-position:0 -444px;}.webwise_numeric_flipboard .digit .top.i6.flip1{background-position:-54px -444px;}
+.webwise_numeric_flipboard .digit .top.i6.flip2{background-position:-110px -444px;}
+.webwise_numeric_flipboard .digit .top.i7{background-position:0 -518px;}.webwise_numeric_flipboard .digit .top.i7.flip1{background-position:-54px -518px;}
+.webwise_numeric_flipboard .digit .top.i7.flip2{background-position:-110px -518px;}
+.webwise_numeric_flipboard .digit .top.i8{background-position:0 -592px;}.webwise_numeric_flipboard .digit .top.i8.flip1{background-position:-54px -592px;}
+.webwise_numeric_flipboard .digit .top.i8.flip2{background-position:-110px -592px;}
+.webwise_numeric_flipboard .digit .top.i9{background-position:0 -666px;}.webwise_numeric_flipboard .digit .top.i9.flip1{background-position:-54px -666px;}
+.webwise_numeric_flipboard .digit .top.i9.flip2{background-position:-110px -666px;}
+.webwise_numeric_flipboard .digit .bottom{top:37px;}.webwise_numeric_flipboard .digit .bottom.i0{background-position:0 -37px;}.webwise_numeric_flipboard .digit .bottom.i0.flip1{background-position:-54px -37px;}
+.webwise_numeric_flipboard .digit .bottom.i0.flip2{background-position:-110px -37px;}
+.webwise_numeric_flipboard .digit .bottom.i1{background-position:0 -111px;}.webwise_numeric_flipboard .digit .bottom.i1.flip1{background-position:-54px -111px;}
+.webwise_numeric_flipboard .digit .bottom.i1.flip2{background-position:-110px -111px;}
+.webwise_numeric_flipboard .digit .bottom.i2{background-position:0 -185px;}.webwise_numeric_flipboard .digit .bottom.i2.flip1{background-position:-54px -185px;}
+.webwise_numeric_flipboard .digit .bottom.i2.flip2{background-position:-110px -185px;}
+.webwise_numeric_flipboard .digit .bottom.i3{background-position:0 -259px;}.webwise_numeric_flipboard .digit .bottom.i3.flip1{background-position:-54px -259px;}
+.webwise_numeric_flipboard .digit .bottom.i3.flip2{background-position:-110px -259px;}
+.webwise_numeric_flipboard .digit .bottom.i4{background-position:0 -333px;}.webwise_numeric_flipboard .digit .bottom.i4.flip1{background-position:-54px -333px;}
+.webwise_numeric_flipboard .digit .bottom.i4.flip2{background-position:-110px -333px;}
+.webwise_numeric_flipboard .digit .bottom.i5{background-position:0 -407px;}.webwise_numeric_flipboard .digit .bottom.i5.flip1{background-position:-54px -407px;}
+.webwise_numeric_flipboard .digit .bottom.i5.flip2{background-position:-110px -407px;}
+.webwise_numeric_flipboard .digit .bottom.i6{background-position:0 -481px;}.webwise_numeric_flipboard .digit .bottom.i6.flip1{background-position:-54px -481px;}
+.webwise_numeric_flipboard .digit .bottom.i6.flip2{background-position:-110px -481px;}
+.webwise_numeric_flipboard .digit .bottom.i7{background-position:0 -555px;}.webwise_numeric_flipboard .digit .bottom.i7.flip1{background-position:-54px -555px;}
+.webwise_numeric_flipboard .digit .bottom.i7.flip2{background-position:-110px -555px;}
+.webwise_numeric_flipboard .digit .bottom.i8{background-position:0 -629px;}.webwise_numeric_flipboard .digit .bottom.i8.flip1{background-position:-54px -629px;}
+.webwise_numeric_flipboard .digit .bottom.i8.flip2{background-position:-110px -629px;}
+.webwise_numeric_flipboard .digit .bottom.i9{background-position:0 -703px;}.webwise_numeric_flipboard .digit .bottom.i9.flip1{background-position:-54px -703px;}
+.webwise_numeric_flipboard .digit .bottom.i9.flip2{background-position:-110px -703px;}

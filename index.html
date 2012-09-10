@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.3/underscore-min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    <script type="text/javascript" src="lib/jquery-ui-1.8.23.custom.min.js"></script>
+    <script type="text/javascript" src="lib/async.js"></script>
+    <script type="text/javascript" src="lib/webwise_numeric_flipboard.js"></script>
+    <link rel="stylesheet" href="css/webwise_numeric_flipboard.css"/>
+</head>
+<body>
+    <div class="webwise_numeric_flipboard"></div>
+    <script type="text/javascript">
+        var cnt=99999;
+        $('.webwise_numeric_flipboard').webwise_numeric_flipboard({ value: 0, digits: 5 }).on('webwise_numeric_flipboard_flip_animation_completed', function(){
+            var _this = this;
+            _.delay(function(){ $(_this).webwise_numeric_flipboard('update', cnt--) }, 500);
+        }).webwise_numeric_flipboard('update', 0);
+    </script>
+</body>
+</html>
